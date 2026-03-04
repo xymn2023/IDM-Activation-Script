@@ -13,7 +13,7 @@
 
 # IAS 最新版本
 最新版本 - v1.2 (12-Feb-2024)
-[GitHub](https://github.com/hanmaoye/IDM-Activation-Script)
+[GitHub](https://github.com/xymn2023/IDM-Activation-Script)
 
 # 下载 / 如何使用它？
 首先安装最新的 [Internet Download Manager](https://www.internetdownloadmanager.com/). 如果有任何以前的破解补丁，请确保将其删除或卸载。
@@ -36,7 +36,7 @@
   或
 
   ```shell
-  iwr -useb https://raw.githubusercontent.com/hanmaoye/IDM-Activation-Script/main/IAS.ps1 | iex
+  iwr -useb https://raw.githubusercontent.com/xymn2023/IDM-Activation-Script/main/IAS.ps1 | iex
   ```
 
   或
@@ -51,7 +51,7 @@
 
 # 方法 2 - Traditional
 
-* 从 [GitHub](https://github.com/hanmaoye/IDM-Activation-Script/archive/refs/heads/main.zip)下载该文件
+* 从 [GitHub](https://github.com/xymn2023/IDM-Activation-Script/archive/refs/heads/main.zip)下载该文件
 * 右键点击下载的压缩文件并解压
 * 右键点击下载的压缩文件并解压 `IAS.cmd`
 * 你将看到激活选项，并按照屏幕上的说明操作。
@@ -111,7 +111,7 @@
 * 该脚本将在对CLSISD注册表项执行操作之前对其进行备份。
 * 增加了许多错误检查，以便更好地识别问题。
 ## v0.8
-* 将项目转移到 [Github](https://github.com/hanmaoye/IDM-Activation-Script)
+* 将项目转移到 [Github](https://github.com/xymn2023/IDM-Activation-Script)
 * 小错误修复
 * 添加信息以告知用户，当脚本删除大量空注册表项时，这些空注册表项正在被删除。
 
