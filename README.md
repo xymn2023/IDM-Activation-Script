@@ -29,11 +29,7 @@
 
 * 复制粘贴下面的代码并按回车键
 
-  ```shell
-  iex(irm is.gd/iAS)
-  ```
-
-  或
+  
 
   ```shell
   iwr -useb https://raw.githubusercontent.com/xymn2023/IDM-Activation-Script/main/IAS.ps1 | iex
